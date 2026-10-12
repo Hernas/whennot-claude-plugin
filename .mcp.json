@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "whennot": {
+      "type": "http",
+      "url": "https://whennot.com/api/mcp"
+    }
+  }
+}

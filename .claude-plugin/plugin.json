@@ -1,0 +1,14 @@
+{
+  "name": "whennot",
+  "displayName": "WhenNOT",
+  "version": "1.0.0",
+  "description": "Find dates that work for a whole group and book calls from Claude: create polls, see who answered and the best dates, remind people, pick the final dates, answer invitations, and book, move or cancel times on WhenNOT booking pages. Connects to your WhenNOT account with OAuth.",
+  "author": {
+    "name": "Hernas OÜ",
+    "email": "support@whennot.com",
+    "url": "https://whennot.com"
+  },
+  "homepage": "https://whennot.com/apps",
+  "license": "MIT",
+  "keywords": ["scheduling", "polls", "meetings", "booking", "calendar", "availability"]
+}

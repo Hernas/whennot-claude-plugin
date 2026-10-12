@@ -1,0 +1,25 @@
+{
+  "name": "whennot",
+  "owner": {
+    "name": "Hernas OÜ",
+    "email": "support@whennot.com"
+  },
+  "metadata": {
+    "description": "The WhenNOT plugin for Claude: find dates that work for everyone and book calls from the chat."
+  },
+  "plugins": [
+    {
+      "name": "whennot",
+      "source": "./",
+      "description": "Date polls, best dates, reminders, invitations and booking pages from your WhenNOT account.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Hernas OÜ",
+        "email": "support@whennot.com"
+      },
+      "homepage": "https://whennot.com/apps",
+      "license": "MIT",
+      "category": "productivity"
+    }
+  ]
+}
