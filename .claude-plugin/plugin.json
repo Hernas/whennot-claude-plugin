@@ -9,6 +9,7 @@
     "url": "https://whennot.com"
   },
   "homepage": "https://whennot.com/apps",
+  "privacyPolicyUrl": "https://whennot.com/privacy-policy",
   "license": "MIT",
   "keywords": ["scheduling", "polls", "meetings", "booking", "calendar", "availability"]
 }
